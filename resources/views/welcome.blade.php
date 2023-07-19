@@ -4,6 +4,6 @@
 
 @section('main-content')
     <h1 class="text-center m-5">
-        Welcome
+        Benvenuto/a !!!!!
     </h1>
 @endsection
